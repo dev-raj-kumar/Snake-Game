@@ -1,4 +1,5 @@
 # Snake-Game
+hosted at https://dev-raj-kumar.github.io/Snake-Game/
 ### A traditional Snake game in which each time the snake eats the food, the score increment by one
 ### The **speed** of the snake increases gradually as your point increases.
 ### When the snake collides with the boundary wall game is over
